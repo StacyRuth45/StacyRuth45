@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my personal start-up project<br>👯 I’m looking to collaborate on backend projects<br>🤝 I’m looking for help with other Software Developers<br>🌱 I’m currently learning Django frameworks and APIs<br>💬 Ask me about how I started my journey into Tech<br>⚡ Fun fact I  love reading mysterious novels, especially Sy-Fi
+🔭 I’m currently working on my personal start-up project<br>👯 I’m looking to collaborate on backend projects<br>🤝 I’m looking for help from other Software Developers<br>🌱 I’m currently learning Django frameworks and APIs<br>💬 Ask me about how I started my journey into Tech<br>⚡ Fun fact I  love reading novels, especially Sy-Fi
 
 
 ## 🌐 Socials:
